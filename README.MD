@@ -2,8 +2,8 @@
 
 copiar la carpeta .vscode en tu proyecto de godot 3.6.3 version C#
 
+![Debug godot 3.6.3](3.png)
+
 ![Debug godot 3.6.3](1.png)
 
 ![Debug godot 3.6.3](2.png)
-
-![Debug godot 3.6.3](3.png)
